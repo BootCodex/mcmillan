@@ -1,5 +1,5 @@
 Bootstrap_Flask
-Flask
+Flask==2.3.1
 Flask_CKEditor
 Flask_Login
 Flask-Gravatar
