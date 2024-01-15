@@ -10,4 +10,3 @@ WTForms
 SQLAlchemy
 gunicorn
 psycopg2-binary
-dotenv
